@@ -1,4 +1,4 @@
-## Responsive Portfolio Website
+# Responsive Portfolio Website
   . Responsive Personal Website Using HTML CSS & JavaScript
   . Contains several pages (About, Work & Contact)
   . Includes a dark & light theme.
